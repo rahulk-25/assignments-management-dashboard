@@ -95,12 +95,8 @@ The system comes with several seeders to populate the database with initial data
 - `tests/` - Contains test files
 
 ## Features
-- Student Management
-- Course Management
 - Assignment Management
 - Student Assignment Tracking
-- User Authentication
-- Role-based Access Control
 
 ## Maintenance
 1. Clear application cache:
@@ -147,6 +143,4 @@ If you encounter any issues:
    ```
 
 ## Support
-For any issues or questions, please contact the development team.
-
-> **Note:** This is a review assignment for office use. Please ensure all data is properly backed up before making any changes to the production environment.
+For any issues or questions, please contact the me at rahul@peregrine-it.com.
